@@ -1,0 +1,1 @@
+I'm not sure this is what I was supposed to do, so this is in fact the test. Other than a text file in nano, how would I open other file types from the command line? Have I learned this already and forgotten it, something I was meant to learn on my own supplementally, or is it something that will be covered later in the curriculum.
